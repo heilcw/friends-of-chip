@@ -1,5 +1,5 @@
 ---
-title: Chip Heil
+title: Clifford "Chip" Heil
 role: Candidate for Hopkinton RI Town Council
 avatar_filename: fullsizerender.jpeg
 bio: ""
