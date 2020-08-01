@@ -20,8 +20,8 @@ hero_media = "vote for chip button.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#235591"
+  gradient_end = "#1c4270"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
@@ -41,9 +41,5 @@ hero_media = "vote for chip button.png"
   label = "Yes, I'm in!"
   icon_pack = "fas"
   icon = "thumbs-up"
-  
-#[cta_alt]
-#  url = "https://sourcethemes.com/academic/"
-#  label = "View Documentation"
 
 +++
