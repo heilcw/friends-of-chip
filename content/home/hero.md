@@ -37,7 +37,7 @@ hero_media = "vote for chip button.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
+  url = "https://secure.actblue.com/donate/vote4chip"
   label = "Yes, I'm in!"
   icon_pack = "fas"
   icon = "thumbs-up"
