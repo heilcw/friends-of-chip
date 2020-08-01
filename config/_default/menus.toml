@@ -6,15 +6,15 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Chip in!"
   url = "#hero"
-  weight = 50
+  weight = 20
 
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 130
+  weight = 30

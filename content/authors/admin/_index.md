@@ -7,4 +7,4 @@ interests:
   - ""
 superuser: true
 ---
-My name is Clifford “Chip” Heil and I am a Democratic candidate for Town Council. As Town Councilor I will act as a steward of the Town by respecting our Plans and Ordinances and our rural character. In addition, I will be a representative of the Town’s residents by encouraging you to speak your mind and ensuring that your voices are heard and considered in every decision. As an environmental scientist who provides advice to decision-makers, I realize the need to balance multiple viewpoints. This experience makes me well-suited to a leadership position in Town. I will consider all views fairly, consistently, with an open mind, and willingness to cooperate.
+Clifford “Chip” Heil is a Democratic candidate for Town Council. Chip promises to act as a steward of Hopkinton by respecting our Plans and Ordinances and our rural character. As Chip's friends, we know he'll be a true representative of our voices and will consider us in every decision he makes. Will you join us in supporting Chip?
