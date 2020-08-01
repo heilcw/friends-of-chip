@@ -40,7 +40,7 @@ hero_media = "vote for chip button.png"
   url = "https://sourcethemes.com/academic/docs/install/"
   label = "Yes, I'm in!"
   icon_pack = "fas"
-  icon = "download"
+  icon = "thumbs-up"
   
 #[cta_alt]
 #  url = "https://sourcethemes.com/academic/"
