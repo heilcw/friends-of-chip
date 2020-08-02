@@ -43,3 +43,5 @@ hero_media = "vote for chip button.png"
   icon = "thumbs-up"
 
 +++
+
+Your support will make a difference in the campaign to elect Clifford “Chip” Heil to the Hopkinton, RI Town Council.
