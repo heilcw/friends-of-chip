@@ -26,7 +26,8 @@ social:
 ---
 Clifford “Chip” Heil is a Democratic candidate for Town Council. Chip promises to act as a steward of Hopkinton by respecting our Plans and Ordinances and our rural character. As Chip's friends, we know he'll be a true representative of our voices and will consider us in every decision he makes. Will you join us in supporting Chip?
 
-**IMPORTANT ISSUES**:
+##**IMPORTANT ISSUES**:
+
 **Town Plans and Ordinances** – Ensure that Plans and Ordinances are consistent and clear of conflicts and that they are strictly followed.
 
 **Town and CHARIHO Budget** – Rigorously review budget line items and ensure responsible spending that maximizes our children’s education while minimizing the financial obligations of Hopkinton and its residents.
