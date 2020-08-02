@@ -11,7 +11,7 @@ avatar_filename: avatar.jpeg
 
 bio: ""
 
-issues:
+interests:
 - No zone changes for solar
 - Fair school budget
 - Sustainable economic development
