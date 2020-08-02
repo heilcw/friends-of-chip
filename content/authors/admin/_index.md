@@ -11,14 +11,6 @@ avatar_filename: avatar.jpeg
 
 bio: ""
 
-interests:
-- No zone changes for solar
-- Fair school budget
-- Sustainable economic development
-- Responsible town budget
-- Robust public involvement
-- Support town volunteer boards
-
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,3 +25,11 @@ social:
 
 ---
 Clifford “Chip” Heil is a Democratic candidate for Town Council. Chip promises to act as a steward of Hopkinton by respecting our Plans and Ordinances and our rural character. As Chip's friends, we know he'll be a true representative of our voices and will consider us in every decision he makes. Will you join us in supporting Chip?
+
+**Issues**:
+- No zone changes for solar
+- Fair school budget
+- Sustainable economic development
+- Responsible town budget
+- Robust public involvement
+- Support town volunteer boards
