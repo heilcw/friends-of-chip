@@ -12,3 +12,5 @@ title = "Help elect Chip to the Hopkinton RI Town Council"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+**Issues**
